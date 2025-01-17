@@ -1,5 +1,4 @@
 Rules of the Game:
-
 1.Input:
   A grid is given where each cell contains one of the characters "P", "B", or ".".
   A sequence of commands ("U", "D", "L", "R") is provided, dictating the player's movements:
